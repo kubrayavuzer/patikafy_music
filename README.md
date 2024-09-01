@@ -1,0 +1,1 @@
+Bu proje, C# programlama dili kullanılarak 11 pop müzik sanatçısının verilerinden oluşan bir liste tanımlar ve bu liste üzerinden çeşitli sorgular gerçekleştirir. Amaç, bir veri tablosundaki sanatçı verilerini nesneler halinde listeleyip, farklı filtreleme ve sıralama işlemleri yaparak bu veriler üzerinde analiz yapmaktır.
